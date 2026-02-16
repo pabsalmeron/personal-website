@@ -1,0 +1,154 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2200
+>>
+stream
+BT
+/F2 24 Tf
+50 742 Td
+(PABLO SALMERON) Tj
+0 -30 Td
+/F1 12 Tf
+(Full Stack Developer) Tj
+0 -25 Td
+/F1 10 Tf
+(pablo@example.com | Madrid, Spain | github.com/pablosalmeron | linkedin.com/in/pablosalmeron) Tj
+0 -40 Td
+/F2 14 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -20 Td
+/F1 10 Tf
+(Passionate Full Stack Developer with 5+ years of experience building scalable web applications.) Tj
+0 -15 Td
+(Expert in React, Next.js, Node.js, and cloud technologies. Strong problem-solving skills with a) Tj
+0 -15 Td
+(focus on clean code and exceptional user experiences.) Tj
+0 -35 Td
+/F2 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F1 10 Tf
+(Frontend: JavaScript, TypeScript, React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS) Tj
+0 -15 Td
+(Backend: Node.js, Express, Python, Django, REST APIs, GraphQL) Tj
+0 -15 Td
+(Database: MongoDB, PostgreSQL, MySQL, Redis, Firebase) Tj
+0 -15 Td
+(DevOps: Docker, Kubernetes, AWS, GCP, CI/CD, Git) Tj
+0 -15 Td
+(Tools: Figma, VS Code, Jira, Agile/Scrum methodologies) Tj
+0 -35 Td
+/F2 14 Tf
+(WORK EXPERIENCE) Tj
+0 -20 Td
+/F2 12 Tf
+(Senior Full Stack Developer - TechCorp Inc.) Tj
+0 -15 Td
+/F1 10 Tf
+(January 2022 - Present | Madrid, Spain) Tj
+0 -15 Td
+(- Led development of microservices architecture serving 1M+ daily users) Tj
+0 -15 Td
+(- Reduced page load time by 40% through performance optimization) Tj
+0 -15 Td
+(- Mentored junior developers and conducted code reviews) Tj
+0 -25 Td
+/F2 12 Tf
+(Full Stack Developer - Digital Solutions Ltd.) Tj
+0 -15 Td
+/F1 10 Tf
+(June 2019 - December 2021 | Barcelona, Spain) Tj
+0 -15 Td
+(- Built e-commerce platform processing $2M+ monthly transactions) Tj
+0 -15 Td
+(- Implemented CI/CD pipelines reducing deployment time by 60%) Tj
+0 -15 Td
+(- Developed RESTful APIs consumed by mobile and web applications) Tj
+0 -35 Td
+/F2 14 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F2 12 Tf
+(Bachelor of Science in Computer Science) Tj
+0 -15 Td
+/F1 10 Tf
+(Universidad Politecnica de Madrid | 2015 - 2019) Tj
+0 -35 Td
+/F2 14 Tf
+(CERTIFICATIONS) Tj
+0 -20 Td
+/F1 10 Tf
+(- AWS Certified Solutions Architect - Associate) Tj
+0 -15 Td
+(- Google Cloud Professional Developer) Tj
+0 -15 Td
+(- MongoDB Certified Developer) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000266 00000 n 
+0000002519 00000 n 
+0000002596 00000 n 
+
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+2679
+%%EOF
